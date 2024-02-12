@@ -1,12 +1,7 @@
-<h1 align="center">Hello there👋, I'm Rijan Maharjan</h1>
-<h3 align="center">Developing</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rijan03&label=Profile%20views&color=0e75b6&style=flat" alt="rijan03" /> </p>
 
 
-- 🌱 I’m currently learning **HTML,CSS,JS,PYTHON,C++...**
 
-- 📫 How to reach me **rizanmahrjan99@gmail.com**
+
 
 
 <p align="left">
